@@ -1,0 +1,10 @@
+
+2017-12-12 06:48:27 : INFO => None
+2017-12-12 06:49:00 : INFO => Acdef1234
+2017-12-12 06:49:00 : INFO => Connection to db successfull
+2017-12-12 06:49:27 : INFO => Acdef1234
+2017-12-12 06:49:27 : INFO => Connection to db successfull
+2017-12-12 06:49:27 : INFO => UPDATE accountdetails SET password='Acdef1234' WHERE acc_no=1234
+2017-12-12 06:49:27 : INFO => 0
+2017-12-12 06:53:01 : INFO => Connection to db successfull
+2017-12-12 06:53:44 : INFO => Connection to db successfull
